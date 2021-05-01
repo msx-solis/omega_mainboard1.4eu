@@ -5,5 +5,7 @@ Please, refer to it for full documentation or you can also go to https://msxmake
 
 ## changes
 The only changes from mainboard version 1.4us are:
+
 a) Din-8 connectors used are more common on EU than in 1.4us version.
+
 b) the jumpers for selecting the mapper changes are not connected so a cutout of the traces is not needed.
